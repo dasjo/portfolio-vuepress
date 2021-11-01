@@ -22,7 +22,7 @@ Gesucht wird eine Mieterschaft welche sorgsam mit der Wohnung umgeht und die Gar
 
 **Kontakt**
 
-Vielen Dank für eine Bewerbung an stampfenbrunnenstrasse@gmail.com 
+Vielen Dank für eine Bewerbung an stampfenbrunnenstrasse@gmail.com
 
 ![](/upload/01_garten.jpg)![](/upload/02_wohnzimmer.jpg)
 
