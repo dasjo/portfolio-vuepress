@@ -5,11 +5,6 @@
   "footer": "Stampfenbrunnenstrasse",
   "favicon": "",
   "navigation": [
-    {
-      "text": "Kontakt",
-      "link": "mailto:stampfenbrunnenstrasse@gmail.com",
-      "position": "right",
-      "external": false
-    }
+
   ]
 }
